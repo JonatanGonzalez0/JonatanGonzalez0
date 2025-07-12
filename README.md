@@ -8,8 +8,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Backend;Apasionado%20por%20la%20optimización%20y%20la%20eficiencia;Amante%20del%20código%20limpio%20y%20escalable;Siempre%20aprendiendo%20nuevas%20tecnologías;¡Explora%20mis%20proyectos%20y%20colaboremos!&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=00F7FF&vCenter=true">
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/JonatanGonzalez0/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JonatanGonzalez0.JonatanGonzalez0"></a>
